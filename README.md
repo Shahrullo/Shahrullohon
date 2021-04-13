@@ -3,7 +3,4 @@ Data Science Portfolio
 
 
 # Project 1: Dog Classification
-* asdasdsa das fasfasf afasf 
-* asfas fasdflfha;flka
-* akjfhgas;df/kjalsdfa
-* a;fjkhad;f/asdlfasdfs
+* The project from the Udacity Deep Learning Nanodegree Programme deploys the use of Convolutional Neural Networks (CNN) in PyTorch to classify dog breeds.
